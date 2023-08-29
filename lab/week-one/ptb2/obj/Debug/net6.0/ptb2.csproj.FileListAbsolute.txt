@@ -1,0 +1,15 @@
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.AssemblyInfo.cs
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\week-one\ptb2\bin\Debug\net6.0\ptb2.exe
+D:\LEARN\C#\lab\week-one\ptb2\bin\Debug\net6.0\ptb2.deps.json
+D:\LEARN\C#\lab\week-one\ptb2\bin\Debug\net6.0\ptb2.runtimeconfig.json
+D:\LEARN\C#\lab\week-one\ptb2\bin\Debug\net6.0\ptb2.dll
+D:\LEARN\C#\lab\week-one\ptb2\bin\Debug\net6.0\ptb2.pdb
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.dll
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\refint\ptb2.dll
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.pdb
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ptb2.genruntimeconfig.cache
+D:\LEARN\C#\lab\week-one\ptb2\obj\Debug\net6.0\ref\ptb2.dll

@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\bin\Debug\net5.0\OOP-01-02.exe
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\bin\Debug\net5.0\OOP-01-02.deps.json
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\bin\Debug\net5.0\OOP-01-02.runtimeconfig.json
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\bin\Debug\net5.0\OOP-01-02.runtimeconfig.dev.json
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\bin\Debug\net5.0\OOP-01-02.dll
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\bin\Debug\net5.0\OOP-01-02.pdb
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.AssemblyInfo.cs
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.dll
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\refint\OOP-01-02.dll
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.pdb
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\OOP-01-02.genruntimeconfig.cache
+D:\LEARN\C#\lab\OOP-01\OOP-01-02\obj\Debug\net5.0\ref\OOP-01-02.dll

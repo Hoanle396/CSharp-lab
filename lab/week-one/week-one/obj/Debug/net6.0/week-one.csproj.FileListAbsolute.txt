@@ -1,0 +1,15 @@
+D:\LEARN\C#\lab\week-one\week-one\bin\Debug\net6.0\week-one.exe
+D:\LEARN\C#\lab\week-one\week-one\bin\Debug\net6.0\week-one.deps.json
+D:\LEARN\C#\lab\week-one\week-one\bin\Debug\net6.0\week-one.runtimeconfig.json
+D:\LEARN\C#\lab\week-one\week-one\bin\Debug\net6.0\week-one.dll
+D:\LEARN\C#\lab\week-one\week-one\bin\Debug\net6.0\week-one.pdb
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.AssemblyInfo.cs
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.dll
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\refint\week-one.dll
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.pdb
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\week-one.genruntimeconfig.cache
+D:\LEARN\C#\lab\week-one\week-one\obj\Debug\net6.0\ref\week-one.dll

@@ -1,0 +1,15 @@
+D:\LEARN\C#\lab\week-one\snt\bin\Debug\net6.0\snt.exe
+D:\LEARN\C#\lab\week-one\snt\bin\Debug\net6.0\snt.deps.json
+D:\LEARN\C#\lab\week-one\snt\bin\Debug\net6.0\snt.runtimeconfig.json
+D:\LEARN\C#\lab\week-one\snt\bin\Debug\net6.0\snt.dll
+D:\LEARN\C#\lab\week-one\snt\bin\Debug\net6.0\snt.pdb
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.AssemblyInfo.cs
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.dll
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\refint\snt.dll
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.pdb
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\snt.genruntimeconfig.cache
+D:\LEARN\C#\lab\week-one\snt\obj\Debug\net6.0\ref\snt.dll
