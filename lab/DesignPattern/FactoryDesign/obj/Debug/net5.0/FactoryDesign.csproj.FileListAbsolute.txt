@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\bin\Debug\net5.0\FactoryDesign.exe
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\bin\Debug\net5.0\FactoryDesign.deps.json
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\bin\Debug\net5.0\FactoryDesign.runtimeconfig.json
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\bin\Debug\net5.0\FactoryDesign.runtimeconfig.dev.json
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\bin\Debug\net5.0\FactoryDesign.dll
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\bin\Debug\net5.0\FactoryDesign.pdb
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.AssemblyInfo.cs
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.dll
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\refint\FactoryDesign.dll
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.pdb
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\FactoryDesign.genruntimeconfig.cache
+D:\LEARN\C#\lab\DesignPattern\FactoryDesign\obj\Debug\net5.0\ref\FactoryDesign.dll

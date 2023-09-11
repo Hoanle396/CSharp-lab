@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\bin\Debug\net5.0\DemoAbstract.exe
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\bin\Debug\net5.0\DemoAbstract.deps.json
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\bin\Debug\net5.0\DemoAbstract.runtimeconfig.json
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\bin\Debug\net5.0\DemoAbstract.runtimeconfig.dev.json
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\bin\Debug\net5.0\DemoAbstract.dll
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\bin\Debug\net5.0\DemoAbstract.pdb
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.AssemblyInfo.cs
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.dll
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\refint\DemoAbstract.dll
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.pdb
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\DemoAbstract.genruntimeconfig.cache
+D:\LEARN\C#\lab\DemoAbstract\DemoAbstract\obj\Debug\net5.0\ref\DemoAbstract.dll

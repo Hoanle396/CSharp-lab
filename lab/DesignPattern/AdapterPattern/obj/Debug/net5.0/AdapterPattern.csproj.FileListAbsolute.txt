@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.exe
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.deps.json
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.json
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.dev.json
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.dll
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.pdb
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfo.cs
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.dll
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\refint\AdapterPattern.dll
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.pdb
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.genruntimeconfig.cache
+D:\LEARN\C#\lab\DesignPattern\AdapterPattern\obj\Debug\net5.0\ref\AdapterPattern.dll

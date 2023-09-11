@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.exe
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.deps.json
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.json
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.dev.json
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.dll
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.pdb
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfo.cs
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.dll
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\refint\DesignPattern.dll
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.pdb
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.genruntimeconfig.cache
+D:\LEARN\C#\lab\DesignPattern\DesignPattern\obj\Debug\net5.0\ref\DesignPattern.dll
