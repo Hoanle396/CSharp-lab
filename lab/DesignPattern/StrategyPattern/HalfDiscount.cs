@@ -10,7 +10,7 @@ namespace StrategyPattern
     {
         float Strategy.DoDiscount(float price)
         {
-            return (float)(price * 0.8);
+            return (float)(price * 0.5);
         }
     }
 }

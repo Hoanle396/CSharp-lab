@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\OOP\OOP-03\bin\Debug\net5.0\OOP-03.exe
+D:\LEARN\C#\lab\OOP\OOP-03\bin\Debug\net5.0\OOP-03.deps.json
+D:\LEARN\C#\lab\OOP\OOP-03\bin\Debug\net5.0\OOP-03.runtimeconfig.json
+D:\LEARN\C#\lab\OOP\OOP-03\bin\Debug\net5.0\OOP-03.runtimeconfig.dev.json
+D:\LEARN\C#\lab\OOP\OOP-03\bin\Debug\net5.0\OOP-03.dll
+D:\LEARN\C#\lab\OOP\OOP-03\bin\Debug\net5.0\OOP-03.pdb
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.AssemblyInfo.cs
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.dll
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\refint\OOP-03.dll
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.pdb
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\OOP-03.genruntimeconfig.cache
+D:\LEARN\C#\lab\OOP\OOP-03\obj\Debug\net5.0\ref\OOP-03.dll
