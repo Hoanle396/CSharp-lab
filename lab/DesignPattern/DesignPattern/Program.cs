@@ -6,8 +6,8 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            Person single1 = Singleton.GetInstance();
-            Person single2 = Singleton.GetInstance();
+            SingletonPerson single1 = SingletonPerson.Instance;
+            SingletonPerson single2 = SingletonPerson.Instance;
             single1.BirthDay();
             single2.MyAge();
 

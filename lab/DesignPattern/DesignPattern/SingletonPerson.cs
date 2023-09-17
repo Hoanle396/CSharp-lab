@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace DesignPattern
 {
-    internal class Person
+    class SingletonPerson
     {
         private int Age { get; set; }
-        public Person()
+        private SingletonPerson()
         {
             Age = 1;
         }
@@ -22,6 +22,21 @@ namespace DesignPattern
         public void MyAge()
         {
             Console.WriteLine($"{Age}");
+        }
+
+        public static SingletonPerson instance;
+
+
+        public static SingletonPerson Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new SingletonPerson();
+                }
+                return instance;
+            }
         }
     }
 }
