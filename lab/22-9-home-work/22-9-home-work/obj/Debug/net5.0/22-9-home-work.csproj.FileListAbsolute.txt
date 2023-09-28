@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\bin\Debug\net5.0\22-9-home-work.exe
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\bin\Debug\net5.0\22-9-home-work.deps.json
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\bin\Debug\net5.0\22-9-home-work.runtimeconfig.json
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\bin\Debug\net5.0\22-9-home-work.runtimeconfig.dev.json
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\bin\Debug\net5.0\22-9-home-work.dll
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\bin\Debug\net5.0\22-9-home-work.pdb
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.AssemblyInfo.cs
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.dll
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\refint\22-9-home-work.dll
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.pdb
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\22-9-home-work.genruntimeconfig.cache
+D:\LEARN\C#\lab\22-9-home-work\22-9-home-work\obj\Debug\net5.0\ref\22-9-home-work.dll
