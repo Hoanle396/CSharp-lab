@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\EX1\EX4\bin\Debug\net5.0\EX4.exe
+D:\LEARN\C#\lab\EX1\EX4\bin\Debug\net5.0\EX4.deps.json
+D:\LEARN\C#\lab\EX1\EX4\bin\Debug\net5.0\EX4.runtimeconfig.json
+D:\LEARN\C#\lab\EX1\EX4\bin\Debug\net5.0\EX4.runtimeconfig.dev.json
+D:\LEARN\C#\lab\EX1\EX4\bin\Debug\net5.0\EX4.dll
+D:\LEARN\C#\lab\EX1\EX4\bin\Debug\net5.0\EX4.pdb
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.AssemblyInfo.cs
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.dll
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\refint\EX4.dll
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.pdb
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\EX4.genruntimeconfig.cache
+D:\LEARN\C#\lab\EX1\EX4\obj\Debug\net5.0\ref\EX4.dll

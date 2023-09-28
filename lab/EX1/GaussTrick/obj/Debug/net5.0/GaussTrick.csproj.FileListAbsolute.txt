@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\EX1\GaussTrick\bin\Debug\net5.0\GaussTrick.exe
+D:\LEARN\C#\lab\EX1\GaussTrick\bin\Debug\net5.0\GaussTrick.deps.json
+D:\LEARN\C#\lab\EX1\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.json
+D:\LEARN\C#\lab\EX1\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.dev.json
+D:\LEARN\C#\lab\EX1\GaussTrick\bin\Debug\net5.0\GaussTrick.dll
+D:\LEARN\C#\lab\EX1\GaussTrick\bin\Debug\net5.0\GaussTrick.pdb
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfo.cs
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.dll
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\refint\GaussTrick.dll
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.pdb
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\GaussTrick.genruntimeconfig.cache
+D:\LEARN\C#\lab\EX1\GaussTrick\obj\Debug\net5.0\ref\GaussTrick.dll
