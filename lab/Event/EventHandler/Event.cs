@@ -11,8 +11,6 @@ namespace EventHandle
         }
 
     }
-
-    // Xây dựng lớp, phát đi sự kiện (data)
     public class ClassA
     {
         public event EventHandler<MyEvent> event_news;

@@ -1,0 +1,12 @@
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\WebAPI.exe
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\appsettings.json
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\WebAPI.dll
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\WebAPI.deps.json
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\WebAPI.runtimeconfig.json
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\WebAPI.pdb
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\MySqlConnector.dll
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LEARN\C#\final\WebAPI\WebAPI\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

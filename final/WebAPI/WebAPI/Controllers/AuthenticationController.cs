@@ -1,29 +1,37 @@
+namespace WebApi.Controllers;
+
 using Microsoft.AspNetCore.Mvc;
+using WebAPI.Helpers;
+using WebAPI.Models;
+using WebAPI.Services;
 
-namespace WebAPI.Controllers
+[ApiController]
+[Route("[controller]")]
+public class authController : ControllerBase
 {
-  [ApiController]
-  [Route("[controller]")]
-  public class AuthenticationController : ControllerBase
-  {
+    private IUserService _userService;
 
-
-    private readonly ILogger<AuthenticationController> _logger;
-
-    public AuthenticationController(ILogger<AuthenticationController> logger)
+    public authController(IUserService userService)
     {
-      _logger = logger;
+        _userService = userService;
     }
 
-    [HttpGet(Name = "user")]
-    public IEnumerable<WeatherForecast> Get()
+    [HttpPost("login")]
+    public IActionResult Authenticate(AuthenticateRequest model)
     {
-      return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-      {
-        Date = DateTime.Now.AddDays(index),
-        TemperatureC = Random.Shared.Next(-20, 55),
-      })
-      .ToArray();
+        var response = _userService.Authenticate(model);
+
+        if (response == null)
+            return BadRequest(new { message = "Username or password is incorrect" });
+
+        return Ok(response);
     }
-  }
+
+    [Authorize]
+    [HttpGet("me")]
+    public IActionResult GetAll()
+    {
+        var users = _userService.GetAll();
+        return Ok(users);
+    }
 }
