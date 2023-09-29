@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.AssemblyInfo.cs
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\bin\Debug\net5.0\ExtendMethods.exe
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\bin\Debug\net5.0\ExtendMethods.deps.json
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\bin\Debug\net5.0\ExtendMethods.runtimeconfig.json
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\bin\Debug\net5.0\ExtendMethods.runtimeconfig.dev.json
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\bin\Debug\net5.0\ExtendMethods.dll
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\bin\Debug\net5.0\ExtendMethods.pdb
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.dll
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\refint\ExtendMethods.dll
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.pdb
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ExtendMethods.genruntimeconfig.cache
+D:\LEARN\C#\lab\ExtendMethods\ExtendMethods\obj\Debug\net5.0\ref\ExtendMethods.dll

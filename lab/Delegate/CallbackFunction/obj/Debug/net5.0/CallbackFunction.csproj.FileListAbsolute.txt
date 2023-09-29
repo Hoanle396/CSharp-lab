@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\Delegate\CallbackFunction\bin\Debug\net5.0\CallbackFunction.exe
+D:\LEARN\C#\lab\Delegate\CallbackFunction\bin\Debug\net5.0\CallbackFunction.deps.json
+D:\LEARN\C#\lab\Delegate\CallbackFunction\bin\Debug\net5.0\CallbackFunction.runtimeconfig.json
+D:\LEARN\C#\lab\Delegate\CallbackFunction\bin\Debug\net5.0\CallbackFunction.runtimeconfig.dev.json
+D:\LEARN\C#\lab\Delegate\CallbackFunction\bin\Debug\net5.0\CallbackFunction.dll
+D:\LEARN\C#\lab\Delegate\CallbackFunction\bin\Debug\net5.0\CallbackFunction.pdb
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.AssemblyInfo.cs
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.dll
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\refint\CallbackFunction.dll
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.pdb
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\CallbackFunction.genruntimeconfig.cache
+D:\LEARN\C#\lab\Delegate\CallbackFunction\obj\Debug\net5.0\ref\CallbackFunction.dll

@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\Lambda\Lambda\bin\Debug\net5.0\Lambda.exe
+D:\LEARN\C#\lab\Lambda\Lambda\bin\Debug\net5.0\Lambda.deps.json
+D:\LEARN\C#\lab\Lambda\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.json
+D:\LEARN\C#\lab\Lambda\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.dev.json
+D:\LEARN\C#\lab\Lambda\Lambda\bin\Debug\net5.0\Lambda.dll
+D:\LEARN\C#\lab\Lambda\Lambda\bin\Debug\net5.0\Lambda.pdb
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfo.cs
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.dll
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\refint\Lambda.dll
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.pdb
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\Lambda.genruntimeconfig.cache
+D:\LEARN\C#\lab\Lambda\Lambda\obj\Debug\net5.0\ref\Lambda.dll

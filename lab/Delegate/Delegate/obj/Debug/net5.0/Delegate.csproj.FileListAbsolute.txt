@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+D:\LEARN\C#\lab\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+D:\LEARN\C#\lab\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+D:\LEARN\C#\lab\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+D:\LEARN\C#\lab\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+D:\LEARN\C#\lab\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\refint\Delegate.dll
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
+D:\LEARN\C#\lab\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LinQ-Learn/1.0.0": {
+        "runtime": {
+          "LinQ-Learn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinQ-Learn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

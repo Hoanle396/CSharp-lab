@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\bin\Debug\net5.0\FuncActionDelegate.exe
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\bin\Debug\net5.0\FuncActionDelegate.deps.json
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\bin\Debug\net5.0\FuncActionDelegate.runtimeconfig.json
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\bin\Debug\net5.0\FuncActionDelegate.runtimeconfig.dev.json
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\bin\Debug\net5.0\FuncActionDelegate.dll
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\bin\Debug\net5.0\FuncActionDelegate.pdb
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.AssemblyInfo.cs
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.dll
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\refint\FuncActionDelegate.dll
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.pdb
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\FuncActionDelegate.genruntimeconfig.cache
+D:\LEARN\C#\lab\Delegate\FuncActionDelegate\obj\Debug\net5.0\ref\FuncActionDelegate.dll

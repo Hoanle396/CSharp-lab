@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\Event\Event\bin\Debug\net5.0\Event.exe
+D:\LEARN\C#\lab\Event\Event\bin\Debug\net5.0\Event.deps.json
+D:\LEARN\C#\lab\Event\Event\bin\Debug\net5.0\Event.runtimeconfig.json
+D:\LEARN\C#\lab\Event\Event\bin\Debug\net5.0\Event.runtimeconfig.dev.json
+D:\LEARN\C#\lab\Event\Event\bin\Debug\net5.0\Event.dll
+D:\LEARN\C#\lab\Event\Event\bin\Debug\net5.0\Event.pdb
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.AssemblyInfo.cs
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.dll
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\refint\Event.dll
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.pdb
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\Event.genruntimeconfig.cache
+D:\LEARN\C#\lab\Event\Event\obj\Debug\net5.0\ref\Event.dll

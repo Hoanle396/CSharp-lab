@@ -1,0 +1,16 @@
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\bin\Debug\net5.0\LinQ-Learn.exe
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\bin\Debug\net5.0\LinQ-Learn.deps.json
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\bin\Debug\net5.0\LinQ-Learn.runtimeconfig.json
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\bin\Debug\net5.0\LinQ-Learn.runtimeconfig.dev.json
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\bin\Debug\net5.0\LinQ-Learn.dll
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\bin\Debug\net5.0\LinQ-Learn.pdb
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.AssemblyInfo.cs
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.dll
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\refint\LinQ-Learn.dll
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.pdb
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\LinQ-Learn.genruntimeconfig.cache
+D:\LEARN\C#\lab\LinQ-Learn\LinQ-Learn\obj\Debug\net5.0\ref\LinQ-Learn.dll
