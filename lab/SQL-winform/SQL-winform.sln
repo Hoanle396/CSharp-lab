@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL-winform", "SQL-winform\SQL-winform.csproj", "{FE54FEBA-E226-4248-8588-3BBF2E66C3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE54FEBA-E226-4248-8588-3BBF2E66C3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE54FEBA-E226-4248-8588-3BBF2E66C3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE54FEBA-E226-4248-8588-3BBF2E66C3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE54FEBA-E226-4248-8588-3BBF2E66C3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F1C2DE-CFEA-4486-A664-DF03D913C50F}
+	EndGlobalSection
+EndGlobal
