@@ -64,3 +64,5 @@ D:\LEARN\C#\lab\SQL-winform\SQL-winform\obj\Debug\net5.0-windows\SQL-winform.gen
 D:\LEARN\C#\lab\SQL-winform\SQL-winform\obj\Debug\net5.0-windows\ref\SQL-winform.dll
 D:\LEARN\C#\lab\SQL-winform\SQL-winform\obj\Debug\net5.0-windows\SQL_winform.Form2.resources
 D:\LEARN\C#\lab\SQL-winform\SQL-winform\obj\Debug\net5.0-windows\SQL_winform.Form3.resources
+D:\LEARN\C#\lab\SQL-winform\SQL-winform\obj\Debug\net5.0-windows\SQL_winform.Form4.resources
+D:\LEARN\C#\lab\SQL-winform\SQL-winform\obj\Debug\net5.0-windows\SQL_winform.Form5.resources
