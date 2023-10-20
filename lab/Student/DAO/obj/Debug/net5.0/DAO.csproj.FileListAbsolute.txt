@@ -1,0 +1,15 @@
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.AssemblyInfo.cs
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\Student\DAO\bin\Debug\net5.0\DAO.deps.json
+D:\LEARN\C#\lab\Student\DAO\bin\Debug\net5.0\DAO.dll
+D:\LEARN\C#\lab\Student\DAO\bin\Debug\net5.0\DAO.pdb
+D:\LEARN\C#\lab\Student\DAO\bin\Debug\net5.0\DTO.dll
+D:\LEARN\C#\lab\Student\DAO\bin\Debug\net5.0\DTO.pdb
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.csproj.CopyComplete
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.dll
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\refint\DAO.dll
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\DAO.pdb
+D:\LEARN\C#\lab\Student\DAO\obj\Debug\net5.0\ref\DAO.dll
