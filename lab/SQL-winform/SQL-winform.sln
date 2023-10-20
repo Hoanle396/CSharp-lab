@@ -5,7 +5,11 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQL-winform", "SQL-winform\SQL-winform.csproj", "{FE54FEBA-E226-4248-8588-3BBF2E66C3DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-sqldata-adapter", "Winform-sqldata-adapter\Winform-sqldata-adapter.csproj", "{F94DEF89-8B14-43E0-A954-5A6F5F90F3FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winform-sqldata-adapter", "Winform-sqldata-adapter\Winform-sqldata-adapter.csproj", "{F94DEF89-8B14-43E0-A954-5A6F5F90F3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculate", "Caculate\Caculate.csproj", "{5D95280A-8EEA-40D5-8273-9FFF51D418B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "useCaculate", "useCaculate\useCaculate.csproj", "{1DE52275-0AE2-4E0D-9BCF-F949AC91E910}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F94DEF89-8B14-43E0-A954-5A6F5F90F3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94DEF89-8B14-43E0-A954-5A6F5F90F3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94DEF89-8B14-43E0-A954-5A6F5F90F3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D95280A-8EEA-40D5-8273-9FFF51D418B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D95280A-8EEA-40D5-8273-9FFF51D418B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D95280A-8EEA-40D5-8273-9FFF51D418B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D95280A-8EEA-40D5-8273-9FFF51D418B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE52275-0AE2-4E0D-9BCF-F949AC91E910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE52275-0AE2-4E0D-9BCF-F949AC91E910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE52275-0AE2-4E0D-9BCF-F949AC91E910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE52275-0AE2-4E0D-9BCF-F949AC91E910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uj2+JEjSiSAZTIylAxz7s+CDM8n52uE7ZD6/vfucBfsmNDD++Oe+/xjrTHYXJ60r1QzLnDHKJcKm5bYp/77hKw==",
+  "success": true,
+  "projectFilePath": "D:\\LEARN\\C#\\lab\\StudentManagement\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoanl\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512",
+    "C:\\Users\\hoanl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\hoanl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

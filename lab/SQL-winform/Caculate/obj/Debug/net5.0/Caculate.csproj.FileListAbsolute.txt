@@ -1,0 +1,12 @@
+D:\LEARN\C#\lab\SQL-winform\Caculate\bin\Debug\net5.0\Caculate.deps.json
+D:\LEARN\C#\lab\SQL-winform\Caculate\bin\Debug\net5.0\Caculate.dll
+D:\LEARN\C#\lab\SQL-winform\Caculate\bin\Debug\net5.0\Caculate.pdb
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\Caculate.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\Caculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\Caculate.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\Caculate.AssemblyInfo.cs
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\Caculate.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\Caculate.dll
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\refint\Caculate.dll
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\Caculate.pdb
+D:\LEARN\C#\lab\SQL-winform\Caculate\obj\Debug\net5.0\ref\Caculate.dll

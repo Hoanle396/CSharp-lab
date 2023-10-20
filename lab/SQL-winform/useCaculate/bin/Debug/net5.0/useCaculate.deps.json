@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "useCaculate/1.0.0": {
+        "dependencies": {
+          "Caculate": "1.0.0"
+        },
+        "runtime": {
+          "useCaculate.dll": {}
+        }
+      },
+      "Caculate/1.0.0": {
+        "runtime": {
+          "Caculate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "useCaculate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Caculate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
