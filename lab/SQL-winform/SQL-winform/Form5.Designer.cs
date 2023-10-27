@@ -1,9 +1,7 @@
 ﻿using System.Windows.Forms;
 
-namespace SQL_winform
-{
-    partial class Form5
-    {
+namespace SQL_winform {
+    partial class Form5 {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -13,10 +11,8 @@ namespace SQL_winform
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
+        protected override void Dispose(bool disposing) {
+            if (disposing && (components != null)) {
                 components.Dispose();
             }
             base.Dispose(disposing);
@@ -28,39 +24,68 @@ namespace SQL_winform
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent()
-        {
-            lvStudent = new ListView();
-            groupbox = new GroupBox();
-            txtClassID = new TextBox();
-            lbClassID = new Label();
-            txtFullName = new TextBox();
-            lbName = new Label();
-            txtStudentID = new TextBox();
+        private void InitializeComponent() {
             lblStudentId = new Label();
-            btnInsert = new Button();
-            btnUpdate = new Button();
+            txtStudentID = new TextBox();
+            lbName = new Label();
+            txtFullName = new TextBox();
+            lbClassID = new Label();
+            txtClassID = new TextBox();
+            groupbox = new GroupBox();
             btnDelete = new Button();
+            lvStudent = new ListView();
+            btnUpdate = new Button();
+            btnInsert = new Button();
             groupbox.SuspendLayout();
             SuspendLayout();
             // 
-            // lvStudent
+            // lblStudentId
             // 
-            lvStudent.FullRowSelect = true;
-            lvStudent.GridLines = true;
-            lvStudent.HideSelection = false;
-            lvStudent.Location = new System.Drawing.Point(0, 12);
-            lvStudent.Name = "lvStudent";
-            lvStudent.Size = new System.Drawing.Size(410, 437);
-            lvStudent.TabIndex = 12;
-            lvStudent.UseCompatibleStateImageBehavior = false;
-            lvStudent.View = View.Details;
-            lvStudent.FullRowSelect = true;
-            lvStudent.GridLines = true;
-            lvStudent.Columns.Add("Student ID", 138);
-            lvStudent.Columns.Add("Name", 138);
-            lvStudent.Columns.Add("Class ID", 138);
-            lvStudent.SelectedIndexChanged += lvStudent_SelectedIndexChanged;
+            lblStudentId.AutoSize = true;
+            lblStudentId.Location = new System.Drawing.Point(17, 66);
+            lblStudentId.Name = "lblStudentId";
+            lblStudentId.Size = new System.Drawing.Size(59, 15);
+            lblStudentId.TabIndex = 9;
+            lblStudentId.Text = "StudentID";
+            // 
+            // txtStudentID
+            // 
+            txtStudentID.Location = new System.Drawing.Point(117, 63);
+            txtStudentID.Name = "txtStudentID";
+            txtStudentID.Size = new System.Drawing.Size(227, 23);
+            txtStudentID.TabIndex = 10;
+            // 
+            // lbName
+            // 
+            lbName.AutoSize = true;
+            lbName.Location = new System.Drawing.Point(17, 106);
+            lbName.Name = "lbName";
+            lbName.Size = new System.Drawing.Size(61, 15);
+            lbName.TabIndex = 11;
+            lbName.Text = "Full Name";
+            // 
+            // txtFullName
+            // 
+            txtFullName.Location = new System.Drawing.Point(117, 103);
+            txtFullName.Name = "txtFullName";
+            txtFullName.Size = new System.Drawing.Size(227, 23);
+            txtFullName.TabIndex = 12;
+            // 
+            // lbClassID
+            // 
+            lbClassID.AutoSize = true;
+            lbClassID.Location = new System.Drawing.Point(17, 152);
+            lbClassID.Name = "lbClassID";
+            lbClassID.Size = new System.Drawing.Size(45, 15);
+            lbClassID.TabIndex = 13;
+            lbClassID.Text = "ClassID";
+            // 
+            // txtClassID
+            // 
+            txtClassID.Location = new System.Drawing.Point(117, 149);
+            txtClassID.Name = "txtClassID";
+            txtClassID.Size = new System.Drawing.Size(227, 23);
+            txtClassID.TabIndex = 14;
             // 
             // groupbox
             // 
@@ -77,63 +102,28 @@ namespace SQL_winform
             groupbox.TabStop = false;
             groupbox.Text = "Student Information";
             // 
-            // txtClassID
+            // btnDelete
             // 
-            txtClassID.Location = new System.Drawing.Point(117, 149);
-            txtClassID.Name = "txtClassID";
-            txtClassID.Size = new System.Drawing.Size(227, 23);
-            txtClassID.TabIndex = 14;
+            btnDelete.Location = new System.Drawing.Point(687, 319);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new System.Drawing.Size(75, 23);
+            btnDelete.TabIndex = 16;
+            btnDelete.Text = "Delete";
+            btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
-            // lbClassID
+            // lvStudent
             // 
-            lbClassID.AutoSize = true;
-            lbClassID.Location = new System.Drawing.Point(17, 152);
-            lbClassID.Name = "lbClassID";
-            lbClassID.Size = new System.Drawing.Size(45, 15);
-            lbClassID.TabIndex = 13;
-            lbClassID.Text = "ClassID";
-            // 
-            // txtFullName
-            // 
-            txtFullName.Location = new System.Drawing.Point(117, 103);
-            txtFullName.Name = "txtFullName";
-            txtFullName.Size = new System.Drawing.Size(227, 23);
-            txtFullName.TabIndex = 12;
-            // 
-            // lbName
-            // 
-            lbName.AutoSize = true;
-            lbName.Location = new System.Drawing.Point(17, 106);
-            lbName.Name = "lbName";
-            lbName.Size = new System.Drawing.Size(61, 15);
-            lbName.TabIndex = 11;
-            lbName.Text = "Full Name";
-            // 
-            // txtStudentID
-            // 
-            txtStudentID.Location = new System.Drawing.Point(117, 63);
-            txtStudentID.Name = "txtStudentID";
-            txtStudentID.Size = new System.Drawing.Size(227, 23);
-            txtStudentID.TabIndex = 10;
-            // 
-            // lblStudentId
-            // 
-            lblStudentId.AutoSize = true;
-            lblStudentId.Location = new System.Drawing.Point(17, 66);
-            lblStudentId.Name = "lblStudentId";
-            lblStudentId.Size = new System.Drawing.Size(59, 15);
-            lblStudentId.TabIndex = 9;
-            lblStudentId.Text = "StudentID";
-            // 
-            // btnInsert
-            // 
-            btnInsert.Location = new System.Drawing.Point(467, 319);
-            btnInsert.Name = "btnInsert";
-            btnInsert.Size = new System.Drawing.Size(75, 23);
-            btnInsert.TabIndex = 14;
-            btnInsert.Text = "Insert";
-            btnInsert.UseVisualStyleBackColor = true;
-            btnInsert.Click += btnInsert_Click;
+            lvStudent.FullRowSelect = true;
+            lvStudent.GridLines = true;
+            lvStudent.HideSelection = false;
+            lvStudent.Location = new System.Drawing.Point(0, 12);
+            lvStudent.Name = "lvStudent";
+            lvStudent.Size = new System.Drawing.Size(410, 437);
+            lvStudent.TabIndex = 12;
+            lvStudent.UseCompatibleStateImageBehavior = false;
+            lvStudent.View = View.Details;
+            lvStudent.SelectedIndexChanged += lvStudent_SelectedIndexChanged;
             // 
             // btnUpdate
             // 
@@ -145,15 +135,15 @@ namespace SQL_winform
             btnUpdate.UseVisualStyleBackColor = true;
             btnUpdate.Click += btnUpdate_Click;
             // 
-            // btnDelete
+            // btnInsert
             // 
-            btnDelete.Location = new System.Drawing.Point(687, 319);
-            btnDelete.Name = "btnDelete";
-            btnDelete.Size = new System.Drawing.Size(75, 23);
-            btnDelete.TabIndex = 16;
-            btnDelete.Text = "Delete";
-            btnDelete.UseVisualStyleBackColor = true;
-            btnDelete.Click += btnDelete_Click;
+            btnInsert.Location = new System.Drawing.Point(467, 319);
+            btnInsert.Name = "btnInsert";
+            btnInsert.Size = new System.Drawing.Size(75, 23);
+            btnInsert.TabIndex = 14;
+            btnInsert.Text = "Insert";
+            btnInsert.UseVisualStyleBackColor = true;
+            btnInsert.Click += btnInsert_Click;
             // 
             // Form5
             // 
@@ -175,16 +165,16 @@ namespace SQL_winform
 
         #endregion
 
-        private ListView lvStudent;
-        private GroupBox groupbox;
-        private TextBox txtClassID;
-        private Label lbClassID;
-        private TextBox txtFullName;
-        private Label lbName;
-        private TextBox txtStudentID;
         private Label lblStudentId;
-        private Button btnInsert;
-        private Button btnUpdate;
+        private TextBox txtStudentID;
+        private Label lbName;
+        private TextBox txtFullName;
+        private Label lbClassID;
+        private TextBox txtClassID;
+        private GroupBox groupbox;
         private Button btnDelete;
+        private ListView lvStudent;
+        private Button btnUpdate;
+        private Button btnInsert;
     }
 }
