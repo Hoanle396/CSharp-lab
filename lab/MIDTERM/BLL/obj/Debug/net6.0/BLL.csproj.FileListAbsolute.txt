@@ -1,0 +1,17 @@
+D:\LEARN\C#\lab\MIDTERM\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\LEARN\C#\lab\MIDTERM\BLL\bin\Debug\net6.0\BLL.dll
+D:\LEARN\C#\lab\MIDTERM\BLL\bin\Debug\net6.0\BLL.pdb
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.dll
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.pdb
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\LEARN\C#\lab\MIDTERM\BLL\bin\Debug\net6.0\DAO.dll
+D:\LEARN\C#\lab\MIDTERM\BLL\bin\Debug\net6.0\DTO.dll
+D:\LEARN\C#\lab\MIDTERM\BLL\bin\Debug\net6.0\DAO.pdb
+D:\LEARN\C#\lab\MIDTERM\BLL\bin\Debug\net6.0\DTO.pdb
+D:\LEARN\C#\lab\MIDTERM\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\Entity-Framework\Models\bin\Debug\net6.0\Models.deps.json
+D:\LEARN\C#\lab\Entity-Framework\Models\bin\Debug\net6.0\Models.dll
+D:\LEARN\C#\lab\Entity-Framework\Models\bin\Debug\net6.0\Models.pdb
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\Models.dll
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\refint\Models.dll
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\Models.pdb
+D:\LEARN\C#\lab\Entity-Framework\Models\obj\Debug\net6.0\ref\Models.dll

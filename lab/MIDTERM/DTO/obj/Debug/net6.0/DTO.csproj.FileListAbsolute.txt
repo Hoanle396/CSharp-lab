@@ -1,0 +1,12 @@
+D:\LEARN\C#\lab\MIDTERM\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\LEARN\C#\lab\MIDTERM\DTO\bin\Debug\net6.0\DTO.dll
+D:\LEARN\C#\lab\MIDTERM\DTO\bin\Debug\net6.0\DTO.pdb
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\DTO.dll
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\DTO.pdb
+D:\LEARN\C#\lab\MIDTERM\DTO\obj\Debug\net6.0\ref\DTO.dll
