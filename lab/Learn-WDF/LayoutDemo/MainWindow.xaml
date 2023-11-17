@@ -1,0 +1,21 @@
+﻿<Window x:Class="LayoutDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <WrapPanel Background="LightBlue" Orientation="Vertical">
+            <Label Content="CarName" Height="32" Width="740"/>
+            <TextBox Height="47" Name="txtCarName" TextWrapping="Wrap" Text="CarName" Width="754"/>
+            <Label Content="Color" Height="32" Width="740"/>
+            <TextBox Height="47" Name="txtColor" TextWrapping="Wrap" Text="Color" Width="754"/>
+            <Label Content="Brand" Height="32" Width="740"/>
+            <TextBox Height="47" Name="txtBrand" TextWrapping="Wrap" Text="Brand" Width="754"/>
+            <Button Content="Display" RenderTransformOrigin="0.519,2.509" Height="39" Margin="10,10,10,10" Click="Button_Click"/>
+
+        </WrapPanel>
+    </Grid>
+</Window>
