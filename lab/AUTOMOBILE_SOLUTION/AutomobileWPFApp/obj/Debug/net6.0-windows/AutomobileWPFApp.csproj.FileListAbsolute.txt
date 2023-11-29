@@ -1,0 +1,213 @@
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\appsettings.json
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.exe
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.deps.json
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.runtimeconfig.json
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.pdb
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.AssemblyReference.cache
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\WindowCarManagement.g.cs
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\App.g.cs
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp_MarkupCompile.cache
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp_MarkupCompile.lref
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\WindowCarManagement.baml
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.g.resources
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.AssemblyInfoInputs.cache
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.AssemblyInfo.cs
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.CoreCompileInputs.cache
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.CopyComplete
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\refint\AutomobileWPFApp.dll
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.pdb
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.genruntimeconfig.cache
+D:\ĐH CNTT & TT V-H\Năm 4\HK1(23-24)\Lập trình C#-k1\project\Automobile_Solution\AutomobileWPFApp\obj\Debug\net6.0-windows\ref\AutomobileWPFApp.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\appsettings.json
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.exe
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.deps.json
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.runtimeconfig.json
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.pdb
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.AssemblyReference.cache
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\WindowCarManagement.g.cs
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\App.g.cs
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp_MarkupCompile.cache
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp_MarkupCompile.lref
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\WindowCarManagement.baml
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.g.resources
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.AssemblyInfoInputs.cache
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.AssemblyInfo.cs
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.CoreCompileInputs.cache
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.CopyComplete
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\refint\AutomobileWPFApp.dll
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.pdb
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.genruntimeconfig.cache
+D:\C#\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\ref\AutomobileWPFApp.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\appsettings.json
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.exe
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.deps.json
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.runtimeconfig.json
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileWPFApp.pdb
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.AssemblyReference.cache
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\WindowCarManagement.g.cs
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\App.g.cs
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp_MarkupCompile.cache
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp_MarkupCompile.lref
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\WindowCarManagement.baml
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.g.resources
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.AssemblyInfoInputs.cache
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.AssemblyInfo.cs
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.CoreCompileInputs.cache
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.csproj.CopyComplete
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\refint\AutomobileWPFApp.dll
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.pdb
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\AutomobileWPFApp.genruntimeconfig.cache
+D:\LEARN\C-sharp\C#\lab\AUTOMOBILE_SOLUTION\AutomobileWPFApp\obj\Debug\net6.0-windows\ref\AutomobileWPFApp.dll
